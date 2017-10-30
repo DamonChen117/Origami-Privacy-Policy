@@ -1,0 +1,19 @@
+Origami’s Privacy Policy
+If you have any questions or comments about this Privacy Policy, please contact us at chenjiling@gmail.com.
+
+
+Information Collection and Use
+Origami is a client only app, it doesn't collect any information itself.
+
+Google Analytics
+We will also install Google Analytics in the apps, devices, or mobile apps to collect your behaviors in using our Services. We will also recommend some other services that may be suitable or appeal to you based on our analysis.
+
+Unityads
+We use Unityads to show ads
+https://unity3d.com/legal/privacy-policy
+
+Google Admob
+We use Google Admob to show ads, it's privacy: http://www.google.com/policies/privacy/partners/
+
+Information Sharing and Disclosure
+We do not disclose your private personal information except in the limited circumstances described here.
